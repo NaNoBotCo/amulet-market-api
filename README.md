@@ -83,3 +83,7 @@ launch, pick a posture: (a) an official Lazada **affiliate** integration with
 attribution, (b) sell a **derived** product (price index, trends, taxonomy) and
 stop republishing listings verbatim, or (c) use this only as reference to seed
 **your own** inventory. Today's build is fine as a private prototype.
+
+---
+
+Contact: Nan · nan@motdang.net · Sponsor: [Ko-fi](https://ko-fi.com/defiantchiangmai) · [Patreon](https://www.patreon.com/nanobotco)
