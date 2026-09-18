@@ -9,6 +9,6 @@ authors:
 repository-code: "https://github.com/NaNoBotCo/amulet-market-api"
 url: "https://nanobotco.github.io/amulet-market-api/"
 license:
-  - CC-BY-SA-4.0
-  - AGPL-3.0-or-later
+  - CC-BY-4.0
+  - MIT
 date-released: "2026-09-18"
